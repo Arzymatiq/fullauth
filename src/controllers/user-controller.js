@@ -1,4 +1,11 @@
 class UserController{
+    async updateCRUD(req,res,next){
+        try{
+
+        }catch(e){
+
+        }
+    }
     async working(req,res,next){
         try{
 
