@@ -6,6 +6,14 @@ class UserController{
 
         }
     }
+    async createCrud(req,res,next){
+
+        try{
+
+        }catch(e){
+
+        }
+    }
     async working(req,res,next){
         try{
 
