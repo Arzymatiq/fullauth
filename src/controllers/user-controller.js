@@ -7,7 +7,7 @@ class UserController{
         }
     }
 //work
-    async registration(req,res,next){
+    async chlopok(req,res,next){
         try{
 
         }catch(e){
