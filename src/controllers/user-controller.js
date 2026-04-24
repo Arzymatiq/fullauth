@@ -1,4 +1,12 @@
 class UserController{
+    async working(req,res,next){
+        try{
+
+        }catch(e){
+
+        }
+    }
+//work
     async registration(req,res,next){
         try{
 
